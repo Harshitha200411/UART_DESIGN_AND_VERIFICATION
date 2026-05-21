@@ -83,3 +83,6 @@ The testbench uses a **dual-instantiation self-checking architecture**. Both the
 ## Conclusion
 
 The UART was successfully designed and verified for serial communication at 9600 baud with 8-bit data word length. The design correctly handles transmitter serialization, receiver deserialization, false start rejection, and framing error detection. The self-checking testbench and reference model validated functionality across directed, corner case, and FSM coverage scenarios.
+
+##Author
+**Name : Harshitha Naik**
